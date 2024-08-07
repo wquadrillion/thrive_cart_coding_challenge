@@ -34,10 +34,10 @@ docker-compose up
 - `tests/` contains the unit tests.
 - `docker/` contains the Docker configuration.
 
-## Contact
-
-For any questions, please contact me at wquadrillion@gmail.com.
-```
 This comprehensive implementation includes all the necessary classes and tests for the basket system with the required functionalities. Each class has been designed to ensure clean code and proper separation of concerns, while the tests provide coverage for each aspect of the functionality.
 
 This implementation plan outlines the project structure, provides sample code for core functionality, includes Docker configuration and assumptions. The provided code may need adjustments based on specific requirements or constraints.
+
+## Contact
+
+For any questions, please contact me at wquadrillion@gmail.com.
